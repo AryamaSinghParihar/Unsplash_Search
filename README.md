@@ -1,4 +1,4 @@
-# Unsplash Image Search
+# Unsplash Image Explorer
 Unsplash Image Search is a web application built with React that allows users to search and explore images from Unsplash's extensive collection. Users can toggle between light and dark themes, search for specific images, and view the results in a responsive gallery layout.
 
 
